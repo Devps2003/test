@@ -1,0 +1,5 @@
+axios
+@google/generative-ai
+body-parser
+express
+
